@@ -1,0 +1,124 @@
+{
+   "checksum": "72fd2ee6fcf4da77e399f2edfad916b3",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13268676789406294",
+            "guid": "21919a56-7e6d-48d2-900b-3bf99ca08fff",
+            "id": "5",
+            "name": "Consulta ao Auxilio Emergencial",
+            "type": "url",
+            "url": "https://consultaauxilio.cidadania.gov.br/consulta/#/resultado"
+         }, {
+            "date_added": "13270601052653650",
+            "guid": "ab6bc2cc-9119-4761-a3e4-37f2cdd693df",
+            "id": "7",
+            "name": "Filmow",
+            "type": "url",
+            "url": "https://filmow.com/buscar/?csrfmiddlewaretoken=PO5u07zC4nDoSyz0u69Ksj0gcTq3syCP&q=bbc&search_films="
+         }, {
+            "date_added": "13272340349547344",
+            "guid": "ac09efcf-72f5-4f34-8fcd-91120d0e90c6",
+            "id": "9",
+            "name": "My Hero Academia - Boku No Hero - Assista na Crunchyroll",
+            "type": "url",
+            "url": "https://www.crunchyroll.com/pt-br/my-hero-academia"
+         }, {
+            "date_added": "13272341098785034",
+            "guid": "fa04faef-2223-4d46-adea-eb71d0b424b0",
+            "id": "11",
+            "name": "Cells at Work! CODE BLACK - Assista na Crunchyroll",
+            "type": "url",
+            "url": "https://www.crunchyroll.com/pt-br/cells-at-work-code-black"
+         }, {
+            "date_added": "13275011804748452",
+            "guid": "480e71a6-3a18-4864-8eac-bd5b1e5d4fd0",
+            "id": "13",
+            "name": "Naruto - Assista na Crunchyroll",
+            "type": "url",
+            "url": "https://www.crunchyroll.com/pt-br/naruto"
+         }, {
+            "date_added": "13275152541903973",
+            "guid": "4f4d4d3e-bfa0-4a05-84fb-079173974be1",
+            "id": "15",
+            "name": "Plastics - History 101 - watch free online documentaries - ihavenotv.com",
+            "type": "url",
+            "url": "https://ihavenotv.com/plastics-history-101"
+         }, {
+            "date_added": "13277225041698851",
+            "guid": "e9d334e1-23ec-4501-9d2b-5f04ab5d89b6",
+            "id": "17",
+            "name": "Naruto Shippuden - Assista Completo e em HD na Crunchyroll",
+            "type": "url",
+            "url": "https://www.crunchyroll.com/pt-br/naruto-shippuden"
+         }, {
+            "date_added": "13278391702480711",
+            "guid": "1bdddad5-f6ee-4a1b-8d7d-66e718c7f956",
+            "id": "19",
+            "name": "Baile do Inferno (2021) | .",
+            "type": "url",
+            "url": "https://hqs-soquadrinhos.blogspot.com/2021/10/baile-do-inferno-2021.html"
+         }, {
+            "date_added": "13278393358812379",
+            "guid": "ed176ba7-6f1f-4e5e-a23f-8bac4611fd3a",
+            "id": "20",
+            "name": "Satânicos (2020) | .",
+            "type": "url",
+            "url": "https://hqs-soquadrinhos.blogspot.com/2020/04/satanicos-2020.html"
+         }, {
+            "date_added": "13278393525699699",
+            "guid": "b7f1f00d-c26c-4178-b232-96300105b4e9",
+            "id": "21",
+            "name": "E.S.P.A.D.A. (2021) | .",
+            "type": "url",
+            "url": "https://hqs-soquadrinhos.blogspot.com/2021/01/espada-2021.html"
+         }, {
+            "date_added": "13278479572912361",
+            "guid": "951d31cf-d306-4550-9bea-efa34ba6c0dd",
+            "id": "23",
+            "name": "Caminho do X (2021) | .",
+            "type": "url",
+            "url": "https://hqs-soquadrinhos.blogspot.com/2021/05/caminho-do-x-2021.html"
+         }, {
+            "date_added": "13279253597405991",
+            "guid": "41f4ab51-a427-4823-b77d-d0964ccac46e",
+            "id": "25",
+            "name": "SQ Apresenta",
+            "type": "url",
+            "url": "https://sq-apresenta.blogspot.com/"
+         }, {
+            "date_added": "13282065085965954",
+            "guid": "48c83309-30fa-4eba-8794-304f399c4b78",
+            "id": "27",
+            "name": "HQ Dragon - Inferno 2021",
+            "type": "url",
+            "url": "https://hqdragon.com/hq/nzkzoa/7938-inferno-2021"
+         } ],
+         "date_added": "13268675417421689",
+         "date_modified": "13282065085965954",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Barra de favoritos",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13268675417421702",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Outros favoritos",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13268675417421706",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Favoritos nos dispositivos móveis",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

@@ -1,0 +1,26 @@
+2022/01/15-19:20:59.118 8a0 Reusing MANIFEST C:\Users\denis\AppData\Local\BraveSoftware\Brave-Browser\User Data\Default\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/01/15-19:20:59.119 8a0 Recovering log #237
+2022/01/15-19:20:59.131 8a0 Reusing old log C:\Users\denis\AppData\Local\BraveSoftware\Brave-Browser\User Data\Default\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/000237.log 
+2022/01/15-19:20:59.132 8a0 Delete type=2 #235
+2022/01/15-19:20:59.132 8a0 Delete type=2 #238
+2022/01/15-19:40:49.994 225c Level-0 table #243: started
+2022/01/15-19:40:50.019 225c Level-0 table #243: 1079165 bytes OK
+2022/01/15-19:40:50.023 225c Delete type=0 #237
+2022/01/15-19:40:52.324 225c Compacting 1@1 + 1@2 files
+2022/01/15-19:40:52.331 225c Generated table #244@1: 416 keys, 34200 bytes
+2022/01/15-19:40:52.331 225c Compacted 1@1 + 1@2 files => 34200 bytes
+2022/01/15-19:40:52.331 225c compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/01/15-19:40:52.331 225c Delete type=2 #240
+2022/01/15-19:40:52.331 225c Delete type=2 #243
+2022/01/15-19:59:55.032 1420 Level-0 table #246: started
+2022/01/15-19:59:55.102 1420 Level-0 table #246: 1232951 bytes OK
+2022/01/15-19:59:55.105 1420 Delete type=0 #242
+2022/01/15-19:59:55.106 1420 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2022/01/15-19:59:55.107 1420 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00h\x01 \x03\x00\x00\x00\x00\x00\x00\xf0?\x00\x04\x02\x01\x17\x00s\x00e\x00r\x00v\x00i\x00c\x00e\x00:\x00t\x00o\x00p\x00b\x00a\x00r\x00:\x00f\x00a\x00l\x00l\x00b\x00a\x00c\x00k\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 143197 : 1
+2022/01/15-19:59:55.107 1420 Compacting 1@1 + 1@2 files
+2022/01/15-19:59:55.120 1420 Generated table #247@1: 407 keys, 28236 bytes
+2022/01/15-19:59:55.120 1420 Compacted 1@1 + 1@2 files => 28236 bytes
+2022/01/15-19:59:55.120 1420 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/01/15-19:59:55.120 1420 Delete type=2 #244
+2022/01/15-19:59:55.121 1420 Delete type=2 #246
+2022/01/15-19:59:55.122 1420 Manual compaction at level-1 from '\x00h\x01 \x03\x00\x00\x00\x00\x00\x00\xf0?\x00\x04\x02\x01\x17\x00s\x00e\x00r\x00v\x00i\x00c\x00e\x00:\x00t\x00o\x00p\x00b\x00a\x00r\x00:\x00f\x00a\x00l\x00l\x00b\x00a\x00c\x00k\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 143197 : 1 .. (end); will stop at (end)

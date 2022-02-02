@@ -1,0 +1,6 @@
+2021/07/06-08:59:08.497 1a20 Creating DB C:\Users\denis\AppData\Local\BraveSoftware\Brave-Browser\User Data\Default\IndexedDB\https_www3.cav.receita.fazenda.gov.br_0.indexeddb.leveldb since it was missing.
+2021/07/06-08:59:08.500 1a20 Reusing MANIFEST C:\Users\denis\AppData\Local\BraveSoftware\Brave-Browser\User Data\Default\IndexedDB\https_www3.cav.receita.fazenda.gov.br_0.indexeddb.leveldb/MANIFEST-000001
+2021/07/06-08:59:08.517 344c Level-0 table #5: started
+2021/07/06-08:59:08.519 344c Level-0 table #5: 638 bytes OK
+2021/07/06-08:59:08.520 344c Delete type=0 #3
+2021/07/06-08:59:08.521 344c Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)

@@ -1,0 +1,10 @@
+2021/07/07-18:07:07.600 32dc Creating DB C:\Users\denis\AppData\Local\BraveSoftware\Brave-Browser\User Data\Default\IndexedDB\https_shopee.com.br_0.indexeddb.leveldb since it was missing.
+2021/07/07-18:07:07.603 32dc Reusing MANIFEST C:\Users\denis\AppData\Local\BraveSoftware\Brave-Browser\User Data\Default\IndexedDB\https_shopee.com.br_0.indexeddb.leveldb/MANIFEST-000001
+2021/07/07-18:07:07.608 41f8 Level-0 table #5: started
+2021/07/07-18:07:07.609 41f8 Level-0 table #5: 617 bytes OK
+2021/07/07-18:07:07.610 41f8 Delete type=0 #3
+2021/07/07-18:07:07.610 41f8 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2021/07/07-18:07:27.675 41f8 Level-0 table #7: started
+2021/07/07-18:07:27.677 41f8 Level-0 table #7: 59626 bytes OK
+2021/07/07-18:07:27.678 41f8 Delete type=0 #4
+2021/07/07-18:07:27.678 41f8 Manual compaction at level-0 from '\x00\x04\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at (end)

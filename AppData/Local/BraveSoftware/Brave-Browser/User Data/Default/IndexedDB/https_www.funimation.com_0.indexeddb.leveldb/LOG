@@ -1,0 +1,13 @@
+2021/07/23-20:06:23.555 2f84 Reusing MANIFEST C:\Users\denis\AppData\Local\BraveSoftware\Brave-Browser\User Data\Default\IndexedDB\https_www.funimation.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/07/23-20:06:23.556 2f84 Recovering log #7
+2021/07/23-20:06:23.556 2f84 Reusing old log C:\Users\denis\AppData\Local\BraveSoftware\Brave-Browser\User Data\Default\IndexedDB\https_www.funimation.com_0.indexeddb.leveldb/000007.log 
+2021/07/23-20:06:23.565 2fb0 Level-0 table #11: started
+2021/07/23-20:06:23.566 2fb0 Level-0 table #11: 2945 bytes OK
+2021/07/23-20:06:23.567 2fb0 Delete type=0 #7
+2021/07/23-20:06:23.567 2fb0 Manual compaction at level-0 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at '\x00\x05\x00\x00\x05' @ 497 : 1
+2021/07/23-20:06:23.568 2fb0 Compacting 1@0 + 1@1 files
+2021/07/23-20:06:23.569 2fb0 Generated table #12@0: 167 keys, 4106 bytes
+2021/07/23-20:06:23.569 2fb0 Compacted 1@0 + 1@1 files => 4106 bytes
+2021/07/23-20:06:23.569 2fb0 compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/07/23-20:06:23.570 2fb0 Delete type=2 #11
+2021/07/23-20:06:23.570 2fb0 Manual compaction at level-0 from '\x00\x05\x00\x00\x05' @ 497 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)
